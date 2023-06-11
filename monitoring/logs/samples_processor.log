@@ -1,0 +1,5 @@
+2023-06-11 16:07:36,073 - INFO - got a request to get average temp - start time is: 1/1/2022 13:00, end time is 1/1/2022 13:01
+2023-06-11 16:07:38,869 - INFO - got a request to get sum kwh - start time is: 1/1/2022 14:00, end time is 1/1/2022 14:01
+2023-06-11 16:07:40,978 - INFO - got a request to get max pressure - start time is: 1/1/2022 14:00, end time is 1/1/2022 14:02
+2023-06-11 16:07:49,423 - INFO - got a request to get max pressure - start time is: 1/1/2022 14:10, end time is 1/1/2022 14:02
+2023-06-11 16:07:49,423 - ERROR - no results returned from database - start time is: 1/1/2022 14:10, end time is 1/1/2022 14:02

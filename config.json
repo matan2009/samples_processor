@@ -1,0 +1,11 @@
+{
+  "samples_processor_helper": {
+    "log_file_name": "samples_log.txt",
+    "num_of_sublists": 5
+  },
+
+  "database_helper": {
+    "table_name": "samples",
+    "samples_db_path": "dependencies/db/samples.db"
+  }
+}
